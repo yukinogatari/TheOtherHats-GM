@@ -305,6 +305,197 @@
             "reshashb": "6f2c175a94f1531404806d59c2e33085",
             "climbresource": "zuzu_climb.png",
             "reshashc": "7436ff3bdaf51d3e0629d9c2dd2ec447"
+        },
+        {
+            "name": "\u3042\u304f\u3061\u30fc",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "akuchi.png",
+            "reshasha": "641c5c6426704845cab7d8df7b7bcdc4",
+            "climbresource": "akuchi_climb.png",
+            "reshashc": "7b4a3d512b56877e07115fd9c83b3672"
+        },
+        {
+            "name": "ALTO",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "alto.png",
+            "reshasha": "b0a1c3dca5da6600bee690178bc00537",
+            "climbresource": "alto_climb.png",
+            "reshashc": "7bde01880ace139347ad9ab73c4388fe"
+        },
+        {
+            "name": "\u3061\u3083\u3052\u307d\u3088\u3002",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "chagepoyo.png",
+            "reshasha": "7671e00042164838f815b4da7ecd9d19",
+            "climbresource": "chagepoyo_climb.png",
+            "reshashc": "8b65413c25b3e8a3f503e285d0106741"
+        },
+        {
+            "name": "\u306f\u305f\u3055\u3053",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "hatasako.png",
+            "reshasha": "0c8e7626b6354fac1d175e99fdcc1908",
+            "backresource": "hatasako_back.png",
+            "reshashb": "7af8cc97c0ceb1d995049df990fd9595",
+            "climbresource": "hatasako_climb.png",
+            "reshashc": "cbfa483578bf16bddcc3ba5b77229b2a"
+        },
+        {
+            "name": "\u3044\u305a",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "is.png",
+            "reshasha": "bb460948ba860e0aa139a9038d3464e7",
+            "climbresource": "is_climb.png",
+            "reshashc": "1cdb754f43cae9e12dedb5153e04a5f2"
+        },
+        {
+            "name": "\u5f71\u3002",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "Kagemaru_adaptive.png",
+            "reshasha": "5a29c820d09592ad5ab90984d4617f8a",
+            "climbresource": "Kagemaru_climb_adaptive.png",
+            "reshashc": "27aa761719c380bfbc81fe8b2d57d1fc",
+            "adaptive": true
+        },
+        {
+            "name": "kaki",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "kaki.png",
+            "reshasha": "b6f0faf6f64736333ff1ade27b09559a",
+            "climbresource": "kaki_climb.png",
+            "reshashc": "2428a4ff69d4ddc07b51d57a89bdbcb6"
+        },
+        {
+            "name": "\u4e2d\u91ce\u3042\u308b\u307e",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "nakanoalma.png",
+            "reshasha": "b3c65b3f7bf5263fc7f2c79df97fa2b3",
+            "climbresource": "nakanoalma_climb.png",
+            "reshashc": "5c647fe24e39062819eb8ad4d41dee58"
+        },
+        {
+            "name": "\u771f\u5bae\u30ce\u30a2",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "noah.png",
+            "reshasha": "33204228ad21f4394ee0b8aa309894a3",
+            "climbresource": "noah_climb.png",
+            "reshashc": "c598fe073ffa1e4302096fc5331f9eed"
+        },
+        {
+            "name": "\u3071\u3093\u304f\u3093",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "pankun.png",
+            "reshasha": "d0caddda32acdd87bea8f2d974d9bda9",
+            "climbresource": "pankun_climb.png",
+            "reshashc": "a65dbbe5cf6619329ec8770952c87056"
+        },
+        {
+            "name": "\u30d4\u30ab\u30af\u30ed\u30b9",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "pikacros.png",
+            "reshasha": "0894b35bb05c582cae6d6bb041c62910",
+            "climbresource": "pikacros_climb.png",
+            "reshashc": "fea17f12efa43f86f1b07fa15e1e369d"
+        },
+        {
+            "name": "\u3074\u3093\u3061\u3083\u3093",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "pinchan.png",
+            "reshasha": "41b147707a0c7155a33a394c54947285",
+            "backresource": "pinchan_back.png",
+            "reshashb": "7afa00bb81f46bc150da04be5fbd15c4",
+            "climbresource": "pinchan_climb.png",
+            "reshashc": "ea5155174d6b2a8a0d2da75251a44ee1"
+        },
+        {
+            "name": "\u5148\u7aef\u6050\u6016\u75c7",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "sentankyoufusyou.png",
+            "reshasha": "91935676c222d977f8735d40e437ecca",
+            "backresource": "sentankyoufusyou_back.png",
+            "reshashb": "f82fe7ae1227b95a2a19a3db7e24ba4c",
+            "climbresource": "sentankyoufusyou_climb.png",
+            "reshashc": "e7dc55f61260ed910d7cc549cbca33d0"
+        },
+        {
+            "name": "\u702c\u6238\u3042\u3055\u3072",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "seto.png",
+            "reshasha": "5f1c28c05023bff34883d13397734e5f",
+            "backresource": "seto_back.png",
+            "reshashb": "29e4e3e61a6b642eb2f7ea9f5a51c16b",
+            "climbresource": "seto_climb.png",
+            "reshashc": "2e9366149c9ffdc281e68752d3928639"
+        },
+        {
+            "name": "\u30b9\u30ca\u30d1\u30a4",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "snapai.png",
+            "reshasha": "9dc6a966824449ab9711b602822f8836",
+            "climbresource": "snapai_climb.png",
+            "reshashc": "eab4ed564abce09325e0dca4c4da9bbb"
+        },
+        {
+            "name": "\u3056\u3061\u304d\u3093",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "thechicken.png",
+            "reshasha": "26bff057cf409c5f5a8f16ce50fe9e3f",
+            "climbresource": "thechicken_climb.png",
+            "reshashc": "8a66f3147d0a64a005bceccf6d91d6b7"
+        },
+        {
+            "name": "\u30e6\u30ba",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "yuzu.png",
+            "reshasha": "c5e5567137b5f0fca310682839c4917e",
+            "climbresource": "yuzu_climb.png",
+            "reshashc": "9c75910591288d83663cb79ce14b4432"
+        },
+        {
+            "name": "\u30bc\u30eb\u30af",
+            "author": "\u3057\u3046\u306d",
+            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "condition": "None",
+            "resource": "zelk.png",
+            "reshasha": "aa498d492f6834148fcadbdaf9e5be09",
+            "backresource": "zelk_back.png",
+            "reshashb": "385ae22fe93d6336ecb20c259a485834",
+            "climbresource": "zelk_climb.png",
+            "reshashc": "afb982d1dd3dd3cbde1fc24734b0e977"
         }
     ]
 }
