@@ -2,7 +2,7 @@
     "hats": [
         {
             "name": "\u30a2\u30d9\u30ec\u30fc\u30b8",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "average.png",
@@ -12,7 +12,7 @@
         },
         {
             "name": "\u756a\u9577",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "bancho.png",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Dusk",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "dusk.png",
@@ -32,7 +32,7 @@
         },
         {
             "name": "\u3048\u3063\u3061\u3083\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "ecchan.png",
@@ -42,7 +42,7 @@
         },
         {
             "name": "\u3050\u308b\u305f\u307f\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "gurutamin.png",
@@ -52,7 +52,7 @@
         },
         {
             "name": "\u30cf\u30c3\u30c1\u30e3\u30f3",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "hacchan.png",
@@ -62,7 +62,7 @@
         },
         {
             "name": "\u5fae\u7a4d\u5206",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "hashiken.png",
@@ -70,7 +70,7 @@
         },
         {
             "name": "\u58f1\u5144\u3055\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "ichinisan.png",
@@ -80,7 +80,7 @@
         },
         {
             "name": "\u3051\u3044\u3059\u3051",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "keisuke.png",
@@ -90,7 +90,7 @@
         },
         {
             "name": "\u304d\u3063\u3077\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "kippun.png",
@@ -100,7 +100,7 @@
         },
         {
             "name": "\u5fa1\u5148\u8535\u99ac",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "kurama.png",
@@ -112,7 +112,7 @@
         },
         {
             "name": "\u307e\u3057\u3083\u304b\u308a",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "masyakari.png",
@@ -122,7 +122,7 @@
         },
         {
             "name": "\u3081\u30fc\u3084",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "meiya.png",
@@ -132,7 +132,7 @@
         },
         {
             "name": "\u30e1\u30c3\u30b9",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "mess.png",
@@ -142,7 +142,7 @@
         },
         {
             "name": "\u306a\u304b\u306e\u3063\u3061",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "nakanocchi.png",
@@ -152,7 +152,7 @@
         },
         {
             "name": "\u306a\u3064\u3074\u3087\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "natsupyon.png",
@@ -162,7 +162,7 @@
         },
         {
             "name": "\u306d\u308d\u3061\u3083\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "nerrr.png",
@@ -172,7 +172,7 @@
         },
         {
             "name": "\u30dd\u30f3\u9162\u91ce\u90ce",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "ponzu.png",
@@ -182,7 +182,7 @@
         },
         {
             "name": "\u307f\u3055\u3068\u3089\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "ran.png",
@@ -192,7 +192,7 @@
         },
         {
             "name": "\u308c\u3077\u3061\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "repuchinsan.png",
@@ -202,7 +202,7 @@
         },
         {
             "name": "Rin",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "rin.png",
@@ -212,7 +212,7 @@
         },
         {
             "name": "\u72ec\u8eab\u8cb4\u65cf\u30ea\u30f3\u30cd",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "rinne.png",
@@ -224,7 +224,7 @@
         },
         {
             "name": "\u8a69\u4eba\u3055\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "shijin.png",
@@ -234,7 +234,7 @@
         },
         {
             "name": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "shiune.png",
@@ -246,7 +246,7 @@
         },
         {
             "name": "\u3057\u3087\u307c\u3059\u3051",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "shobosuke.png",
@@ -256,7 +256,7 @@
         },
         {
             "name": "\u84bc\u53e4\u6d41",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "sou.png",
@@ -266,7 +266,7 @@
         },
         {
             "name": "\u305f\u3051\u3049",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "takeo.png",
@@ -276,7 +276,7 @@
         },
         {
             "name": "\u3084\u304f\u3055\u3044",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "yakusai.png",
@@ -286,7 +286,7 @@
         },
         {
             "name": "yuta14",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "yuta.png",
@@ -296,7 +296,7 @@
         },
         {
             "name": "\u30ba\u30ba",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "zuzu.png",
@@ -308,7 +308,7 @@
         },
         {
             "name": "\u3042\u304f\u3061\u30fc",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "akuchi.png",
@@ -318,7 +318,7 @@
         },
         {
             "name": "ALTO",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "alto.png",
@@ -328,7 +328,7 @@
         },
         {
             "name": "\u3061\u3083\u3052\u307d\u3088\u3002",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "chagepoyo.png",
@@ -338,7 +338,7 @@
         },
         {
             "name": "\u3044\u305a",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "is.png",
@@ -348,7 +348,7 @@
         },
         {
             "name": "\u5f71\u3002",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "Kagemaru_adaptive.png",
@@ -359,7 +359,7 @@
         },
         {
             "name": "kaki",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "kaki.png",
@@ -369,7 +369,7 @@
         },
         {
             "name": "\u4e2d\u91ce\u3042\u308b\u307e",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "nakanoalma.png",
@@ -379,7 +379,7 @@
         },
         {
             "name": "\u771f\u5bae\u30ce\u30a2",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "noah.png",
@@ -389,7 +389,7 @@
         },
         {
             "name": "\u3071\u3093\u304f\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "pankun.png",
@@ -399,7 +399,7 @@
         },
         {
             "name": "\u30d4\u30ab\u30af\u30ed\u30b9",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "pikacros.png",
@@ -409,7 +409,7 @@
         },
         {
             "name": "\u3074\u3093\u3061\u3083\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "pinchan.png",
@@ -421,7 +421,7 @@
         },
         {
             "name": "\u5148\u7aef\u6050\u6016\u75c7",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "sentankyoufusyou.png",
@@ -433,7 +433,7 @@
         },
         {
             "name": "\u702c\u6238\u3042\u3055\u3072",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "seto.png",
@@ -445,7 +445,7 @@
         },
         {
             "name": "\u30b9\u30ca\u30d1\u30a4",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "snapai.png",
@@ -455,7 +455,7 @@
         },
         {
             "name": "\u3056\u3061\u304d\u3093",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "thechicken.png",
@@ -465,7 +465,7 @@
         },
         {
             "name": "\u30e6\u30ba",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "yuzu.png",
@@ -475,7 +475,7 @@
         },
         {
             "name": "\u30bc\u30eb\u30af",
-            "author": "\u3057\u3046\u306d",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
             "condition": "None",
             "resource": "zelk.png",
