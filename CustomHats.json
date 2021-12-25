@@ -1,19 +1,9 @@
 {
     "hats": [
         {
-            "name": "\u795e\u5bae\u5bfa",
-            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-            "condition": "None",
-            "resource": "jinguuji.png",
-            "reshasha": "c4721ecce9e2b004ef6bba1a6f07063d",
-            "climbresource": "jinguuji_climb.png",
-            "reshashc": "4c1c61414fb55bbb7be21aa98d48d40d"
-        },
-        {
             "name": "ALTO",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "alto.png",
             "reshasha": "b0a1c3dca5da6600bee690178bc00537",
@@ -23,7 +13,7 @@
         {
             "name": "Dusk",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "dusk.png",
             "reshasha": "75f281c3401d880bc2d1e03073567f83",
@@ -33,7 +23,7 @@
         {
             "name": "Fe\uff1a",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "fecolon.png",
             "reshasha": "4ab5407fad7f097f1a491ed1ed6d1827",
@@ -45,7 +35,7 @@
         {
             "name": "GEN",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "gen.png",
             "reshasha": "5eb6fe6a878c38af439615ba575d007d",
@@ -55,7 +45,7 @@
         {
             "name": "Rin",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "rin.png",
             "reshasha": "ba1d92453f10610e90fc8d5df8af478c",
@@ -65,7 +55,7 @@
         {
             "name": "kaki",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "kaki.png",
             "reshasha": "b6f0faf6f64736333ff1ade27b09559a",
@@ -75,7 +65,7 @@
         {
             "name": "yuta14",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "yuta.png",
             "reshasha": "28ffb2647a22387a385bf36689d30698",
@@ -85,7 +75,7 @@
         {
             "name": "\u3042\u304f\u3061\u30fc",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "akuchi.png",
             "reshasha": "641c5c6426704845cab7d8df7b7bcdc4",
@@ -95,7 +85,7 @@
         {
             "name": "\u3044\u305a",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "is.png",
             "reshasha": "bb460948ba860e0aa139a9038d3464e7",
@@ -105,7 +95,7 @@
         {
             "name": "\u3048\u3063\u3061\u3083\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "ecchan.png",
             "reshasha": "d6c90b2af99e833c3eb497690f99711a",
@@ -115,7 +105,7 @@
         {
             "name": "\u304d\u3063\u3077\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "kippun.png",
             "reshasha": "9a57938746f8a45c6b63b0323312b2d8",
@@ -125,7 +115,7 @@
         {
             "name": "\u3050\u308b\u305f\u307f\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "gurutamin.png",
             "reshasha": "3e472ac61dbeec14e7a638d6fe234eec",
@@ -135,7 +125,7 @@
         {
             "name": "\u3051\u3044\u3059\u3051",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "keisuke.png",
             "reshasha": "5fc92b076a2af6f5235d6e44d91553bf",
@@ -143,9 +133,19 @@
             "reshashc": "e3528719e3631e55c255fefd7dbaf151"
         },
         {
+            "name": "\u3055\u3068\u3046\u3055\u3055\u3089",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "satou_sasara.png",
+            "reshasha": "bc1e0dcadc6f87044cb6917eb5bb3f1b",
+            "climbresource": "satou_sasara_climb.png",
+            "reshashc": "79f38c9a37ad41679185ef425f6d7941"
+        },
+        {
             "name": "\u3056\u3061\u304d\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "thechicken.png",
             "reshasha": "26bff057cf409c5f5a8f16ce50fe9e3f",
@@ -155,7 +155,7 @@
         {
             "name": "\u3057\u3087\u307c\u3059\u3051",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "shobosuke.png",
             "reshasha": "0b48b39bf1520515f5102c389864d9f6",
@@ -163,9 +163,19 @@
             "reshashc": "2ab8b05e893344ce710bc7ffbcdd0da9"
         },
         {
+            "name": "\u305a\u3093\u3060\u3082\u3093",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "zundamon.png",
+            "reshasha": "d73819417fb213f9759d954311ac49f5",
+            "climbresource": "zundamon_climb.png",
+            "reshashc": "5470ff80f2b1beba42b4cb1fcfd6de51"
+        },
+        {
             "name": "\u305f\u304f\u3084",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "takuya.png",
             "reshasha": "ba4b09104e7dfd16682d5d6d60ac91ab",
@@ -175,7 +185,7 @@
         {
             "name": "\u305f\u3051\u3049",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "takeo.png",
             "reshasha": "ce4f79b5827b12eac5c9baeb2e5052ba",
@@ -185,7 +195,7 @@
         {
             "name": "\u3061\u3083\u3052\u307d\u3088\u3002",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "chagepoyo.png",
             "reshasha": "7671e00042164838f815b4da7ecd9d19",
@@ -193,9 +203,19 @@
             "reshashc": "8b65413c25b3e8a3f503e285d0106741"
         },
         {
+            "name": "\u3064\u3044\u306a",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "tuina.png",
+            "reshasha": "cddc51a27c70bc93cef9536d5052e90e",
+            "climbresource": "tuina_climb.png",
+            "reshashc": "330668a11c849b7f2db155de81027c2b"
+        },
+        {
             "name": "\u306a\u304b\u306e\u3063\u3061",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "nakanocchi.png",
             "reshasha": "bd7752bd0ef2c952473966da8dec326a",
@@ -205,7 +225,7 @@
         {
             "name": "\u306a\u3064\u3074\u3087\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "natsupyon.png",
             "reshasha": "453726dde48dc5e30d156c033de07f42",
@@ -215,7 +235,7 @@
         {
             "name": "\u306d\u308d\u3061\u3083\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "nerrr.png",
             "reshasha": "06b04de5d4951cb7f121b82b77778954",
@@ -225,7 +245,7 @@
         {
             "name": "\u306f\u305f\u3055\u3053",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "hatasako.png",
             "reshasha": "0c8e7626b6354fac1d175e99fdcc1908",
@@ -237,7 +257,7 @@
         {
             "name": "\u3071\u3093\u304f\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "pankun.png",
             "reshasha": "d0caddda32acdd87bea8f2d974d9bda9",
@@ -247,7 +267,7 @@
         {
             "name": "\u3074\u3088\u3093\u3086\u3045",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "piyonyuu.png",
             "reshasha": "fd4c3ef67d3acf1b918fc599ebbe223b",
@@ -259,7 +279,7 @@
         {
             "name": "\u3074\u3093\u3061\u3083\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "pinchan.png",
             "reshasha": "41b147707a0c7155a33a394c54947285",
@@ -271,7 +291,7 @@
         {
             "name": "\u3075\u3058\u307f\u3084",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "fujimiya.png",
             "reshasha": "33984703fbd17e3eec6f60dfca34cdfc",
@@ -281,7 +301,7 @@
         {
             "name": "\u307e\u3057\u3083\u304b\u308a",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "masyakari.png",
             "reshasha": "e7203018f9492b57deaf014a015a415d",
@@ -291,7 +311,7 @@
         {
             "name": "\u307e\u3063\u304f\u3059",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "maxgakuinchou.png",
             "reshasha": "88be2e48776d4051e438bb6e4e05e9bd",
@@ -301,7 +321,7 @@
         {
             "name": "\u307f\u3055\u3068\u3089\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "ran.png",
             "reshasha": "1c0f311a46f6dd2bf434e4ba655d4223",
@@ -311,7 +331,7 @@
         {
             "name": "\u3081\u30fc\u3084",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "meiya.png",
             "reshasha": "f0189c3a76d209725783c890a9bd5e04",
@@ -321,7 +341,7 @@
         {
             "name": "\u3084\u304f\u3055\u3044",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "yakusai.png",
             "reshasha": "1da445099c3f53bd5d6809345d748120",
@@ -331,7 +351,7 @@
         {
             "name": "\u308a\u304a\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "rion.png",
             "reshasha": "2265214e5a39c6cd9437f1387809f159",
@@ -341,7 +361,7 @@
         {
             "name": "\u308c\u3077\u3061\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "repuchinsan.png",
             "reshasha": "6bb63a448b41883e78bb017222565176",
@@ -349,9 +369,19 @@
             "reshashc": "b597fa9876ef50c4b62f6625ed2a5ea8"
         },
         {
+            "name": "\u30a2\u30d9\u30eb\u30fc\u30cb",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "averuni.png",
+            "reshasha": "24aba2168e438749b69dba7756878aaa",
+            "climbresource": "averuni_climb.png",
+            "reshashc": "439be75a38ad46d7fa5f5a70de6ce5f8"
+        },
+        {
             "name": "\u30a2\u30d9\u30ec\u30fc\u30b8",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "average.png",
             "reshasha": "de4d6fa08f736c07534c4c694c1d3884",
@@ -359,9 +389,21 @@
             "reshashc": "a6aec1b2c9775558497f565a37931402"
         },
         {
+            "name": "\u30a2\u30ea\u30a2\u30eb",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "allial.png",
+            "reshasha": "329794354bb0b11f17dbaecda1e79be9",
+            "climbresource": "allial_climb.png",
+            "reshashc": "efff34ec4a43904a180fdeb168876e35",
+            "flipresource": "allial_flip.png",
+            "reshashf": "5f5114f05e5aabc200d04defd0965454"
+        },
+        {
             "name": "\u30b9\u30ca\u30d1\u30a4",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "snapai.png",
             "reshasha": "9dc6a966824449ab9711b602822f8836",
@@ -371,7 +413,7 @@
         {
             "name": "\u30ba\u30ba",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "zuzu.png",
             "reshasha": "fd9bc9ed4f6c915e1ebc6ae52f5fe85f",
@@ -383,7 +425,7 @@
         {
             "name": "\u30bc\u30eb\u30af",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "zelk.png",
             "reshasha": "aa498d492f6834148fcadbdaf9e5be09",
@@ -393,9 +435,19 @@
             "reshashc": "afb982d1dd3dd3cbde1fc24734b0e977"
         },
         {
+            "name": "\u30bf\u30ab\u30cf\u30b7",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "takahashi.png",
+            "reshasha": "6618b3f8a403f5ca7d0ab2a415896257",
+            "climbresource": "takahashi_climb.png",
+            "reshashc": "21fcf086c6b94e6e6055fb4317c85189"
+        },
+        {
             "name": "\u30c6\u30e9\u30be\u30fc",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "terazo.png",
             "reshasha": "c8504a9278704c314929ef03f3feb899",
@@ -405,7 +457,7 @@
         {
             "name": "\u30cf\u30c3\u30c1\u30e3\u30f3",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "hacchan.png",
             "reshasha": "e43908e1f367a3e9669bea50f9386269",
@@ -415,7 +467,7 @@
         {
             "name": "\u30d2\u30ab\u30c3\u30af",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "hikkaku.png",
             "reshasha": "a100028aef0a819c9ab23ba9548b0fbd",
@@ -425,7 +477,7 @@
         {
             "name": "\u30d2\u30e9",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "hira.png",
             "reshasha": "b5aea5fcbe8246da7845818ed6cba3af",
@@ -435,7 +487,7 @@
         {
             "name": "\u30d4\u30ab\u30af\u30ed\u30b9",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "pikacros.png",
             "reshasha": "d2a80573d3b54ca9f2e7dd47e9ef1030",
@@ -445,7 +497,7 @@
         {
             "name": "\u30d5\u30eb\u30b3\u30f3",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "fullcon.png",
             "reshasha": "35c2a2db8bf7398f8f1c390f7c493936",
@@ -455,7 +507,7 @@
         {
             "name": "\u30dd\u30f3\u9162\u91ce\u90ce",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "ponzu.png",
             "reshasha": "3961de8275ce1a4276c51929c8416c92",
@@ -463,9 +515,21 @@
             "reshashc": "59a59297e7c1d8d60774c95abacc0bd1"
         },
         {
+            "name": "\u30df\u30ea\u30a2\u30eb",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "millial.png",
+            "reshasha": "2e792392d8fa0eaf48da6d38cb1bb764",
+            "climbresource": "millial_climb.png",
+            "reshashc": "ad9d5083f86269e47b9f241712bdd37e",
+            "flipresource": "millial_flip.png",
+            "reshashf": "903adc260e69d4d68c40f693c2b679a6"
+        },
+        {
             "name": "\u30e1\u30c3\u30b9",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "mess.png",
             "reshasha": "82fca98f2d01b3e8f48972ffa9487553",
@@ -475,7 +539,7 @@
         {
             "name": "\u30e6\u30ba",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "yuzu.png",
             "reshasha": "c5e5567137b5f0fca310682839c4917e",
@@ -485,7 +549,7 @@
         {
             "name": "\u4e2d\u91ce\u3042\u308b\u307e",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "nakanoalma.png",
             "reshasha": "b3c65b3f7bf5263fc7f2c79df97fa2b3",
@@ -493,9 +557,19 @@
             "reshashc": "5c647fe24e39062819eb8ad4d41dee58"
         },
         {
+            "name": "\u4eac\u753a\u30bb\u30a4\u30ab",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "kyoumachi_seika.png",
+            "reshasha": "53997972bf22bbda951e7412f31fb9d6",
+            "climbresource": "kyoumachi_seika_climb.png",
+            "reshashc": "cc0aaa56d5ba8fef0579271fea52861f"
+        },
+        {
             "name": "\u512a\u6728\u306a\u304a",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "yuukinao.png",
             "reshasha": "6cef848352b357dd83d715b077959255",
@@ -505,7 +579,7 @@
         {
             "name": "\u5148\u7aef\u6050\u6016\u75c7",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "sentankyoufusyou.png",
             "reshasha": "91935676c222d977f8735d40e437ecca",
@@ -517,7 +591,7 @@
         {
             "name": "\u5357\u6d77\u3075\u3046",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "minamifuu.png",
             "reshasha": "c256b779b21d54ae0204c4b98b9477de",
@@ -527,7 +601,7 @@
         {
             "name": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "shiune.png",
             "reshasha": "307458726edc9c24638491f8633dece0",
@@ -539,7 +613,7 @@
         {
             "name": "\u58f1\u5144\u3055\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "ichinisan.png",
             "reshasha": "50a60eda4d54fb5b03491a72fac54d3f",
@@ -549,7 +623,7 @@
         {
             "name": "\u5929\u7460\u7483\u3061\u3047\u308d",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "rapisuchero.png",
             "reshasha": "ab716e5f2f2e2db4c35f79258c82a9f6",
@@ -557,9 +631,19 @@
             "reshashc": "7a98c04760c6cc62eb4428702c5790dd"
         },
         {
+            "name": "\u5f26\u5dfb\u30de\u30ad",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "tsurumaki_maki.png",
+            "reshasha": "7c05cbcfe99990aa5f9b7f5a417fcb3c",
+            "climbresource": "tsurumaki_maki_climb.png",
+            "reshashc": "fbcc0897285a9778a80bd7de37018602"
+        },
+        {
             "name": "\u5f71\u3002",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "Kagemaru_adaptive.png",
             "reshasha": "5a29c820d09592ad5ab90984d4617f8a",
@@ -570,7 +654,7 @@
         {
             "name": "\u5fa1\u5148\u8535\u99ac",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "kurama.png",
             "reshasha": "d23b620786a7dec5b7a49baee3c446b9",
@@ -582,7 +666,7 @@
         {
             "name": "\u5fae\u7a4d\u5206",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "hashiken.png",
             "reshasha": "077c9fbf7598cf12c46c8b0d7950b94b"
@@ -590,7 +674,7 @@
         {
             "name": "\u661f\u6708\u3079\u30fc\u308b",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "be-ru.png",
             "reshasha": "dff86a183e7193d57ad27147f1f921de",
@@ -600,9 +684,49 @@
             "reshashc": "b15f8c6a4682b419a74762781f184bf7"
         },
         {
+            "name": "\u6708\u8a60\u3042\u3044",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "tsukiyomi_ai.png",
+            "reshasha": "a2398a35becc2bfe15062b5b14dbf671",
+            "climbresource": "tsukiyomi_ai_climb.png",
+            "reshashc": "61f5e89f4878b8058819507327987a0d"
+        },
+        {
+            "name": "\u6771\u5317\u304d\u308a\u305f\u3093",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "touhoku_kiritan.png",
+            "reshasha": "c31508616265aa05d97e7c207ceb6252",
+            "climbresource": "touhoku_kiritan_climb.png",
+            "reshashc": "c3058204ca6e4b1bf3abd59b69f19714"
+        },
+        {
+            "name": "\u6771\u5317\u305a\u3093\u3053",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "touhoku_zunko.png",
+            "reshasha": "052646cb2139de53c69dc75dd04efa12",
+            "climbresource": "touhoku_zunko_climb.png",
+            "reshashc": "89f8ab4b0b413ecced7f7aebb5e0d3a7"
+        },
+        {
+            "name": "\u6771\u5317\u30a4\u30bf\u30b3",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "touhoku_itako.png",
+            "reshasha": "567f16c3327cd97a2f2c94edc42c6a04",
+            "climbresource": "touhoku_itako_climb.png",
+            "reshashc": "43d122ad00a845060eb7274ab5b8c18f"
+        },
+        {
             "name": "\u6e90\u3061\u3087\u3059",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "genchosu.png",
             "reshasha": "12c08503fc5bd6499103e78fbcefebeb",
@@ -614,7 +738,7 @@
         {
             "name": "\u702c\u6238\u3042\u3055\u3072",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "seto.png",
             "reshasha": "5f1c28c05023bff34883d13397734e5f",
@@ -626,7 +750,7 @@
         {
             "name": "\u72ec\u8eab\u8cb4\u65cf\u30ea\u30f3\u30cd",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "rinne.png",
             "reshasha": "be54ddecddaebc8985c60ea9c015a5d4",
@@ -636,9 +760,33 @@
             "reshashc": "18229195bb1e4345686ffe9e12569905"
         },
         {
+            "name": "\u7434\u8449\u831c",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "kotonoha_akane.png",
+            "reshasha": "641b0872578599a02fbd881f8982caf4",
+            "climbresource": "kotonoha_akane_climb.png",
+            "reshashc": "2a88b4fc4affe793ec464e5322d39976",
+            "flipresource": "kotonoha_akane_flip.png",
+            "reshashf": "7ec7e4c7d863818bde45a3504da44500"
+        },
+        {
+            "name": "\u7434\u8449\u8475",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "kotonoha_aoi.png",
+            "reshasha": "b22f3c8fcbe264f118b03331fe541cb7",
+            "climbresource": "kotonoha_aoi_climb.png",
+            "reshashc": "2a1fbd2f046d812a78fb7ef6ce0c1ebb",
+            "flipresource": "kotonoha_aoi_flip.png",
+            "reshashf": "b62bcacdd8972faeeb527658ec2ef9c2"
+        },
+        {
             "name": "\u756a\u9577",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "bancho.png",
             "reshasha": "888a1e7f76f6a025628ad71ad9438e72",
@@ -648,7 +796,7 @@
         {
             "name": "\u771f\u5bae\u30ce\u30a2",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "noah.png",
             "reshasha": "33204228ad21f4394ee0b8aa309894a3",
@@ -656,9 +804,41 @@
             "reshashc": "c598fe073ffa1e4302096fc5331f9eed"
         },
         {
+            "name": "\u795e\u5bae\u5bfa",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "jinguuji.png",
+            "reshasha": "c4721ecce9e2b004ef6bba1a6f07063d",
+            "climbresource": "jinguuji_climb.png",
+            "reshashc": "4c1c61414fb55bbb7be21aa98d48d40d"
+        },
+        {
+            "name": "\u7d32\u661f\u3042\u304b\u308a",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "kizuna_akari.png",
+            "reshasha": "a3b2261e781704148a29d09d37febfb9",
+            "climbresource": "kizuna_akari_climb.png",
+            "reshashc": "a7fa4bba8159978ed3ff4e4fbec593cd"
+        },
+        {
+            "name": "\u7d50\u6708\u3086\u304b\u308a",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "yuzuki_yukari.png",
+            "reshasha": "a2c3f2da8e11b63d000d59c56c996fd1",
+            "backresource": "yuzuki_yukari_back.png",
+            "reshashb": "cb1029f1f40928f7fb34a78c2b45df78",
+            "climbresource": "yuzuki_yukari_climb.png",
+            "reshashc": "bff3aa5f8c4d7fac688a6dc3ab36d3bf"
+        },
+        {
             "name": "\u84bc\u53e4\u6d41",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "sou.png",
             "reshasha": "6ee8c7ea23b0349e99efef9cf725f603",
@@ -668,7 +848,7 @@
         {
             "name": "\u8a69\u4eba\u3055\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "shijin.png",
             "reshasha": "3d2d552f025fd74b2813fd1ce963354e",
@@ -678,7 +858,7 @@
         {
             "name": "\u8fd1\u30a2\u30e2KINGww",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "chikaamoking.png",
             "reshasha": "66965a3d1faffb4e0686f6e1735427fe",
@@ -688,9 +868,19 @@
             "reshashc": "4405721f6e1bf48219667aee8ce67e1f"
         },
         {
+            "name": "\u97f3\u8857\u30a6\u30ca",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "otomachi_una.png",
+            "reshasha": "fd6a5452af57608e78e2d6020e9fa232",
+            "climbresource": "otomachi_una_climb.png",
+            "reshashc": "2bef049961ba129ec6a5e6d93e66ebe7"
+        },
+        {
             "name": "\u9ad8\u7530\u5065\u5fd7",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "takadasan.png",
             "reshasha": "328436d03ed98e8e62231097f111b364",
@@ -698,9 +888,29 @@
             "reshashc": "d10228a24d7acbddafbc0edf1931de8b"
         },
         {
+            "name": "\u9cf4\u82b1\u30d2\u30e1",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "meika_hime.png",
+            "reshasha": "ea03881d206acf761fbc1fd1ce940438",
+            "climbresource": "meika_hime_climb.png",
+            "reshashc": "27bee84f81bbc789360b2c47c2d26a46"
+        },
+        {
+            "name": "\u9cf4\u82b1\u30df\u30b3\u30c8",
+            "author": "chest",
+            "package": "gmEditionGeneral",
+            "condition": "None",
+            "resource": "meika_mikoto.png",
+            "reshasha": "c681876cb69ac052c240ee27df422af4",
+            "climbresource": "meika_mikoto_climb.png",
+            "reshashc": "fb7b1b50c04d4512d80e308a86fb0239"
+        },
+        {
             "name": "\u9ed2\u5ddd\u30af\u30ed\u30e0",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "\u3057\u3046\u306d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+            "package": "shiuneCollection",
             "condition": "None",
             "resource": "kurokawa.png",
             "reshasha": "b861167a74e67cfa27841b7e1e2a07fb",
