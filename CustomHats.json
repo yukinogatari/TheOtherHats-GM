@@ -21,7 +21,7 @@
             "reshashc": "22257d58a3affa89ddf01eac1e677f98"
         },
         {
-            "name": "Fe\uff1a",
+            "name": "Fe:",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
             "condition": "None",
@@ -299,6 +299,16 @@
             "reshashc": "24c4b9e8de4189d36e71c805e08b277d"
         },
         {
+            "name": "\u307e\u3044\u3082",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "maimo.png",
+            "reshasha": "839bdc20a0200ff1c5380e534487224c",
+            "climbresource": "maimo_climb.png",
+            "reshashc": "9c364233baf3f93a2c9b5f8362a7b4d0"
+        },
+        {
             "name": "\u307e\u3057\u3083\u304b\u308a",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
@@ -415,12 +425,13 @@
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
             "condition": "None",
-            "resource": "zuzu.png",
-            "reshasha": "fd9bc9ed4f6c915e1ebc6ae52f5fe85f",
-            "backresource": "zuzu_back.png",
-            "reshashb": "6f2c175a94f1531404806d59c2e33085",
-            "climbresource": "zuzu_climb.png",
-            "reshashc": "7436ff3bdaf51d3e0629d9c2dd2ec447"
+            "resource": "zuzu_adaptive.png",
+            "reshasha": "c89b7ba8ec69fb60247baadb7a546e3c",
+            "backresource": "zuzu_back_adaptive.png",
+            "reshashb": "755f2f16fde65b72c5b4ecdbad947953",
+            "climbresource": "zuzu_climb_adaptive.png",
+            "reshashc": "4b97c4d39262d72e3c57d469857dc5f1",
+            "adaptive": true
         },
         {
             "name": "\u30bc\u30eb\u30af",
