@@ -97,10 +97,10 @@
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
             "condition": "None",
-            "resource": "akatsukisakuya.png",
-            "reshasha": "8a7a8896eeeda69d54cacbd4a1f1bd3b",
-            "climbresource": "akatsukisakuya_climb.png",
-            "reshashc": "3cdf6bc06c232a8c28634eb89d3e6c03"
+            "resource": "a-ru.png",
+            "reshasha": "4f5958f4cc48ec29dfab7efae94a31b5",
+            "climbresource": "a-ru_climb.png",
+            "reshashc": "808e9f6c679b11f8dde0e8fba6ca7b12"
         },
         {
             "name": "\u3044\u305a",
@@ -435,28 +435,6 @@
             "reshashc": "07340671dd2a8498fae307999a7a7293"
         },
         {
-            "name": "\u3084\u3093\u307f",
-            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "shiuneCollection",
-            "condition": "None",
-            "resource": "yanmi.png",
-            "reshasha": "e6feb9c27dd16dbf3c3188a8effd7fec",
-            "backresource": "yanmi_back.png",
-            "reshashb": "f4e286274c151a3e9cd30bf3a4deea55",
-            "climbresource": "yanmi_climb.png",
-            "reshashc": "49341a6bb16371928c9556bc36c62010"
-        },
-        {
-            "name": "\u3088\u3064\u306f",
-            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
-            "package": "shiuneCollection",
-            "condition": "None",
-            "resource": "yotsuha.png",
-            "reshasha": "a485d8a76305185ec5327f17a5060e91",
-            "climbresource": "yotsuha_climb.png",
-            "reshashc": "078cdba714be4c1dfcac59a41cfe5ddf"
-        },
-        {
             "name": "\u308a\u304a\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
@@ -760,6 +738,16 @@
             "reshashc": "7a98c04760c6cc62eb4428702c5790dd"
         },
         {
+            "name": "\u5929\u7fbd\u3088\u3064\u306f",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "yotsuha.png",
+            "reshasha": "a485d8a76305185ec5327f17a5060e91",
+            "climbresource": "yotsuha_climb.png",
+            "reshashc": "078cdba714be4c1dfcac59a41cfe5ddf"
+        },
+        {
             "name": "\u5f26\u5dfb\u30de\u30ad",
             "author": "chest",
             "package": "gmEditionGeneral",
@@ -851,6 +839,18 @@
             "reshasha": "567f16c3327cd97a2f2c94edc42c6a04",
             "climbresource": "touhoku_itako_climb.png",
             "reshashc": "43d122ad00a845060eb7274ab5b8c18f"
+        },
+        {
+            "name": "\u6817\u5c71\u3084\u3093\u307f",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "yanmi.png",
+            "reshasha": "e6feb9c27dd16dbf3c3188a8effd7fec",
+            "backresource": "yanmi_back.png",
+            "reshashb": "f4e286274c151a3e9cd30bf3a4deea55",
+            "climbresource": "yanmi_climb.png",
+            "reshashc": "49341a6bb16371928c9556bc36c62010"
         },
         {
             "name": "\u6e90\u3061\u3087\u3059",
@@ -947,10 +947,10 @@
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
             "condition": "None",
-            "resource": "a-ru.png",
-            "reshasha": "4f5958f4cc48ec29dfab7efae94a31b5",
-            "climbresource": "a-ru_climb.png",
-            "reshashc": "808e9f6c679b11f8dde0e8fba6ca7b12"
+            "resource": "akatsukisakuya.png",
+            "reshasha": "8a7a8896eeeda69d54cacbd4a1f1bd3b",
+            "climbresource": "akatsukisakuya_climb.png",
+            "reshashc": "3cdf6bc06c232a8c28634eb89d3e6c03"
         },
         {
             "name": "\u7d32\u661f\u3042\u304b\u308a",
