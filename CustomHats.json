@@ -123,6 +123,16 @@
             "reshashc": "b896cf3f7cd70773edae8e128aa56dfa"
         },
         {
+            "name": "\u304a\u304a\u306f\u3089MEN",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "ooharamen.png",
+            "reshasha": "801c0c318dae3bf31fee23ef09835e83",
+            "climbresource": "ooharamen_climb.png",
+            "reshashc": "1951ebdc9e2d11a8a5782cc7c493a694"
+        },
+        {
             "name": "\u304a\u3089\u3075\u304f\u3093",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
@@ -133,6 +143,16 @@
             "reshashb": "bcd6565c93f995cd824d89d6348b942b",
             "climbresource": "oraf_climb.png",
             "reshashc": "0d9c4e07591a7ed2c22f222803a49158"
+        },
+        {
+            "name": "\u304a\u3093\u308a\u30fc",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "only.png",
+            "reshasha": "a2b956cb4f36f3edd28ea56a09a6e52d",
+            "climbresource": "only_climb.png",
+            "reshashc": "9914f74013cde66a339f64c99d19a20c"
         },
         {
             "name": "\u304d\u3063\u3077\u3093",
@@ -455,6 +475,16 @@
             "reshashc": "b597fa9876ef50c4b62f6625ed2a5ea8"
         },
         {
+            "name": "\u30a2\u30ab\u30e1\u30bf",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "akameta.png",
+            "reshasha": "ba128b6d128d3d4d1fdffffcfe17b4ae",
+            "climbresource": "akameta_climb.png",
+            "reshashc": "dfc1f3b76b7d398ac622888513866f97"
+        },
+        {
             "name": "\u30a2\u30d9\u30eb\u30fc\u30cb",
             "author": "chest",
             "package": "gmEditionGeneral",
@@ -485,6 +515,24 @@
             "reshashc": "efff34ec4a43904a180fdeb168876e35",
             "flipresource": "allial_flip.png",
             "reshashf": "5f5114f05e5aabc200d04defd0965454"
+        },
+        {
+            "name": "\u30b5\u30f3\u30c8\u30b9",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "santos.png",
+            "reshasha": "ab035da9683879b247d1d84fd3c41675",
+            "climbresource": "santos_climb.png",
+            "reshashc": "d680fd82c66b272618fe06dd61b7820f"
+        },
+        {
+            "name": "\u30b9\u30ca\u30b6\u30e1",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "sunazame.png",
+            "reshasha": "239a31c89a3447a291db4e22f76c0f86"
         },
         {
             "name": "\u30b9\u30ca\u30d1\u30a4",
@@ -684,7 +732,7 @@
             "reshashc": "660a878573ef6d6e190a3fa7c5dd61ea"
         },
         {
-            "name": "\u5148\u7aef\u6050\u6016\u75c7",
+            "name": "\u5148\u7aef\u6050\u6016\u75c7\n\u4e3b\u50ac\u6709\u96e3\u3046\u3054\u3056\u3044\u307e\u3057\u305f\uff01",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
             "condition": "None",
@@ -887,6 +935,18 @@
             "reshashb": "9269bbb95f6ed8eef86f77877beeaf2c",
             "climbresource": "rinne_climb.png",
             "reshashc": "18229195bb1e4345686ffe9e12569905"
+        },
+        {
+            "name": "\u732b\u6708\u307f\u304a",
+            "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "nekodukimio.png",
+            "reshasha": "9c03b8d8ba54d964dd6a178631b42a5e",
+            "backresource": "nekodukimio_back.png",
+            "reshashb": "e0c0c0258515de7b1e1ba24096823907",
+            "climbresource": "nekodukimio_climb.png",
+            "reshashc": "c1bf5b19697706d78edd21b4ad89c33c"
         },
         {
             "name": "\u7434\u8449\u831c",
