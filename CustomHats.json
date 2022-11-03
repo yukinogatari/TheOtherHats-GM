@@ -517,6 +517,18 @@
             "reshashf": "5f5114f05e5aabc200d04defd0965454"
         },
         {
+            "name": "\u30ab\u30de\u30ad\u30ea\u30aa\u30f3",
+            "author": "\u308a\u304a\u3093",
+            "package": "shiuneCollection",
+            "condition": "None",
+            "resource": "kamakiri.png",
+            "reshasha": "9802ebe10d3ca411ea6eb33ae87d6653",
+            "climbresource": "kamakiri_climb.png",
+            "reshashc": "5bd167c75db077eae57dec85463c9f54",
+            "flipresource": "kamakiri_flip.png",
+            "reshashf": "91dfcf9e6029fd6933a91333612fa940"
+        },
+        {
             "name": "\u30b5\u30f3\u30c8\u30b9",
             "author": "\u536f\u30ce\u82b1\u3057\u3046\u306d",
             "package": "shiuneCollection",
